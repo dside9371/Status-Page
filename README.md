@@ -1,5 +1,5 @@
 # Status-Page
-I created this public website to display the status of our websites and services to our customers. This website is built using PHP, CSS and HTML.
+I created this public website to display the status of our websites and services to our customers. This website was built using PHP, CSS and HTML.
 
 Notes:
 - This page was tested on Ubuntu 20.04 and 22.04 using Nginx as a webserver.
