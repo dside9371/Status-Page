@@ -6,7 +6,7 @@ Notes:
 - This page was hosted behind an AWS Application Load Balalncer and using Amazon SSL Certs for HTTPS traffic
 
 Functionality
-- The page will refresh the data every 30 seconds
+- The page will refresh its data every 30 seconds
 - The status of the services are imported from Datadog Monitors
 - The page uses RSS by Zapier for the RSS feed subscriptions
 - The page uses Slack API to display the team updates (Slack Channel -> Slack App -> Status Page)
